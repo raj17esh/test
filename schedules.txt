@@ -1,0 +1,8 @@
+R3D
+R4D
+R1D
+R2D
+LOC1 SFX12012 ++ PICKUP--> WaitTime(in Mins) 660: Arrival Time 12:00:00 AM : Departure Time 11:00:00 AM
+LOC3 SFX340923 ++ PICKUP--> WaitTime(in Mins) 0: Arrival Time 11:00:00 AM : Departure Time 11:00:00 AM
+LOC4 SFX340923 -- DROP--> WaitTime(in Mins) 0: Arrival Time 11:06:00 AM : Departure Time 11:16:00 AM
+LOC2 SFX12012 -- DROP--> WaitTime(in Mins) 0: Arrival Time 11:20:00 AM : Departure Time 11:30:00 AM
